@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Wali Raz
+# 👋 Hi, I’m Zac Mahmood
 
 💾 **Senior Data Engineer | Cloud Data Platforms & ETL Specialist**  
-📧 **Email:** [walirazcodes70@gmail.com](mailto:walirazcodes70@gmail.com)
+📧 **Email:** [zacmahmood2@gmail.com](mailto:zacmahmood2@gmail.com)
 
 ---
 
